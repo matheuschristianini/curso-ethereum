@@ -7,6 +7,7 @@ pragma solidity 0.8.19;
 
 contract Aluguel {
     string public locatario;
+
     string public locador;
     uint256 private valor;
     uint256 constant public numeroMaximoLegalDeAlugueisParaMulta = 3;
