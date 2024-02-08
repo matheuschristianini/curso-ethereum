@@ -5,8 +5,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 */
 
 pragma solidity 0.8.19;
-
-import "./titulo.sol";
+//0xDaEa24e337f8CA648F827DfB2BD5752fdeb140A8
 /**
  * @dev Interface of the ERC20 standard as defined in the EIP.
  */
